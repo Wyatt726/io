@@ -1,0 +1,35 @@
+@charset "utf-8";
+h1{
+    text-align: center  ;
+}
+
+section{
+    text-align: center;
+    border: black;
+}
+section{
+    text-align: left;
+    border: black;
+}
+body{
+    text-decoration: black;
+    background-color: lightsalmon;
+}
+
+.about-me{
+    border: blanchedalmond;
+} 
+
+
+.button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
